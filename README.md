@@ -1,9 +1,4 @@
 
-
-
-
- 
-.
  2D-platformer-game
 This is a basic 2D platformer game 
 bilt using Pygame. You control a blue 4
