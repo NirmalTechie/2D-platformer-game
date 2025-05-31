@@ -5,7 +5,7 @@ bilt using Pygame. You control a blue 4
 character that jumps on red platforms.
 Features: Gravity &amp;
 
-Jumping 
+Jumping
 
 
 
