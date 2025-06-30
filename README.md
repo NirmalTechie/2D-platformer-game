@@ -6,7 +6,7 @@ character that jumps on red platforms.
 Features: Gravity &amp;
 Jumping
 
-
+l
 
 Mechanics Randomly Generated Platform
 s Collision Detection  Smooth Movement
