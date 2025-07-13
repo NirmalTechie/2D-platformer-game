@@ -6,6 +6,7 @@ character that jumps on red platforms.
 Features: Gravity &amp;
 Jumping
 
+
 yeah yeah yeah yeah yeah
 chanics Randomly Generated Platform
 s Collision Detection  Smooth Movement
