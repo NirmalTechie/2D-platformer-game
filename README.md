@@ -6,6 +6,7 @@ This is a basic 2D platformer game
 bilt using Pygame. You control a blue 
 character that jumps on red platforms.
 Features: Gravity &amp;
+
 Jumping
 
 yeah yeah yeah yeah yeah
