@@ -9,7 +9,7 @@ character that jumps on red platforms.
 Features: Gravity &amp;
 
 
-Jumping
+Jumpin
 
 
 ye ah yeah yeah yeah yeah
