@@ -10,7 +10,7 @@ Features: Gravity &amp;
 
 
 
-Jumpin
+Jumpi
 
 
 ye ah yeah yeah yeah yeah
