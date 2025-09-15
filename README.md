@@ -8,8 +8,6 @@ ol a blue
 character that jumps on red platforms.
 Features: Gravity &amp;
 m
-
-
 Jumpi
 
 
