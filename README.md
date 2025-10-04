@@ -21,7 +21,6 @@ chanic Randomly Generated Platform
 
 
 
-
 s Collision Detection  Smooth Movement
 
 
