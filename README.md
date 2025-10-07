@@ -12,6 +12,7 @@ character that jumps on red platforms.
 Features: Gravity &amp;
 
 Jumpi
+
 ye ah yeah yeah yeah yeah
 
 chanic Randomly Generated Platform
