@@ -9,7 +9,8 @@ This is a basic 2D platformer game
 bilt using Pygame. You contr
 ol a blue 
 character that jumps on red platforms.
-Features: Gravity &amp;
+F
+eatures: Gravity &amp;
 
 Jumpi
 
