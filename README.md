@@ -8,7 +8,7 @@
 
  2D-platformer-game
 This is a basic 2D platformer game 
-bilt using Pygame. You contr
+bilt using Pygame. You cont
 ol a blue 
 character that jumps on red platforms.
 F
