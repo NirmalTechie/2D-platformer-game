@@ -15,7 +15,7 @@ F
 eatures: Gravity &amp;
 
 
-Jumpi
+Jump
 
 
 
