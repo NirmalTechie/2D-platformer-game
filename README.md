@@ -18,7 +18,8 @@ ye ah yeah yeah yeah yea
 
 
 
-chanic Randomly Generated Platform
+chanic Randomly Generated Pl
+atform
 
 
 s Collision Detection  Smooth Movement
