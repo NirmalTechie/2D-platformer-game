@@ -14,8 +14,6 @@ character that jumps on red platforms.
 
 
 
-
-
 eatures: Gravity &amp;
 
 
