@@ -19,7 +19,7 @@ eatures: Gravity &amp;
 
 
 
-Jump
+Jum
 
 
 
