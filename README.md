@@ -9,7 +9,6 @@ bilt using Pygame. You cont
 ol a blue 
 character that jumps on red platforms.
 
-
 atures: Gravity &amp
 
 
