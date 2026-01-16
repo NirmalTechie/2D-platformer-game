@@ -11,7 +11,6 @@ character that jumps on red platforms.
 
 atures: Gravity &amp
 
-
 ui
 
 ye ah yeah yeah yeah ye
