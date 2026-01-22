@@ -1,7 +1,6 @@
 
 
 
-
     
  2D-platformer-game
 This is a basic 2D platformer game 
