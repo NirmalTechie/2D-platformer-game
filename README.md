@@ -19,7 +19,6 @@ l
 chanic Randomly Generated Pl
 atfor
 
-
 s Collision Detection  Smooth Movement
 
 
