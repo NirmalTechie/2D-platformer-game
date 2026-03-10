@@ -7,7 +7,7 @@ This is a basic 2D platformer
 l
 l
 
- game 
+ ame 
 
 bilt using Pygame. You cont
 ol a blue character that jumps on red platforms
