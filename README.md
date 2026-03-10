@@ -7,7 +7,6 @@ This is a basic 2D platformer
 
 l
 l
-
 l
 
  game 
