@@ -1,6 +1,3 @@
- wiwgit
-
-l   
  2D-platformer-game
 This is a basic 2D platformer
 bilt using Pygame. You cont
