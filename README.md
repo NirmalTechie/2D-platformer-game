@@ -5,7 +5,7 @@ ol a blue character that jumps on red p
 latforms
 atures: Gravity &amp
 
-ye ah yeah yeah yeah ye
+y ah yeah yeah yeah ye
 \\\
 
 chanic Randomly Generated Plm
