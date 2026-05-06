@@ -3,7 +3,8 @@ This is a basic 2D platformer
 bilt using Pygame. You cont
 ol a blue character that jumps on red p
 latforms
-atures: Gravity &amp
+at
+ures: Gravity &amp
 
 
 
