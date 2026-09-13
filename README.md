@@ -4,7 +4,7 @@ bilt using Pygame. You cont
 ol a blue character that jumps on red p
 atl   
 
-
+n
 
 ures: Gravity &amp
 jjj
