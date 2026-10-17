@@ -4,7 +4,7 @@ ol a blue character that jumps on red p
 atl    
 ji
 
-ures: hhhGravity &amp
+uresn: hhhGravity &amp
 jjj
 hbhy
 bbhbhu bjgg
