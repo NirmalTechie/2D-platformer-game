@@ -2,7 +2,7 @@ ccgv  2D-platformer-game,
 ol a blue character that jumps on red p 
 
 atl    
-ji
+hhhji
 
 uresn: hhhGravity &amp
 jjj
